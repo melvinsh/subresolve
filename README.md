@@ -1,5 +1,5 @@
 # subresolve
-Resove and quickly portscan a list of (sub)domains.
+Resolve and quickly portscan a list of (sub)domains.
 
 ## Usage & example
 ```
