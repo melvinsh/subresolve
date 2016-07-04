@@ -3,6 +3,7 @@ Resolve and quickly portscan a list of (sub)domains.
 
 ## Usage & example
 ```
+gem install colorize
 ruby resolve.rb path_to_subdomain_list
 ```
 
